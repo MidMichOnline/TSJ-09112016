@@ -1,18 +1,19 @@
 ---
-ID: 
+ID: 59
 post_title: Hello world!
 author: admin
-post_date: 2016-09-07 04:48:54
+post_date: 2016-09-10 03:29:18
 post_excerpt: ""
 layout: post
-permalink: 
+permalink: >
+  http://news.shepherdhistory.org/2016/09/10/hello-world-2/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 top_term:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 ![](Cartoon-Phone-Guy-300px.png)
 # *Morning Sun* dropping Sound Off feature
@@ -25,15 +26,14 @@ In a way the Sound Off was a strange throwback to a distant past when there wasn
 
 In describing the Sound Off's long history, Rick Mills said:
 
-> Our vision for Sound Off was to offer voice to the community, to extend a quick way to be heard and to give audience to those with messages that, for whatever reason, could only be shared anonymously.
+&gt; Our vision for Sound Off was to offer voice to the community, to extend a quick way to be heard and to give audience to those with messages that, for whatever reason, could only be shared anonymously.
 
-> Sound Off has solved some problems, righted some wrongs, exposed some issues and led to stories that would not have been known or written if the whistle-blower were identified.
+&gt; Sound Off has solved some problems, righted some wrongs, exposed some issues and led to stories that would not have been known or written if the whistle-blower were identified.
 
-> Those were on its best days.
+&gt; Those were on its best days.
 
-> On its worst days, Sound Off has been what one friend of ours called a train wreck: You feel guilty and you kind of don’t want to look, but you just have to take a peek anyway.
+&gt; On its worst days, Sound Off has been what one friend of ours called a train wreck: You feel guilty and you kind of don’t want to look, but you just have to take a peek anyway.
 
 He continued to talk about how anonymity contributed to some of the more snide comments. And, he said that the volume of calls had dwindled recently.
 
 Will you miss the Sound Off feature in the newspaper?
-
