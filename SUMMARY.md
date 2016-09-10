@@ -1,4 +1,4 @@
 # Summary
 
-* summary
+* SHS Picture Day Planned
 
