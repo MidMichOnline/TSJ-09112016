@@ -1,20 +1,20 @@
 ---
-ID: 63
+ID: 27
 post_title: >
   The Morning Sun dropping Sound Off
   feature
 author: admin
-post_date: 2016-09-10 03:35:19
+post_date: 2016-09-10 14:22:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://news.shepherdhistory.org/2016/09/10/the-morning-sun-dropping-sound-off-feature/
+  http://www.books.shepherdhistory.org/tsj-09112016/2016/09/10/the-morning-sun-dropping-sound-off-feature/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 featured_media:
   - |
-    a:1:{i:0;s:3557:"a:3:{s:4:"type";s:5:"image";s:10:"attachment";i:64;s:15:"attachment_data";a:33:{s:2:"id";i:64;s:5:"title";s:23:"cartoon-phone-guy-300px";s:8:"filename";s:27:"Cartoon-Phone-Guy-300px.png";s:3:"url";s:86:"http://news.shepherdhistory.org/wp-content/uploads/2016/09/Cartoon-Phone-Guy-300px.png";s:4:"link";s:49:"http://news.shepherdhistory.org/?attachment_id=64";s:3:"alt";s:0:"";s:6:"author";s:1:"1";s:11:"description";s:0:"";s:7:"caption";s:0:"";s:4:"name";s:23:"cartoon-phone-guy-300px";s:6:"status";s:7:"inherit";s:10:"uploadedTo";i:63;s:4:"date";i:1473478455000;s:8:"modified";i:1473478455000;s:9:"menuOrder";i:0;s:4:"mime";s:9:"image/png";s:4:"type";s:5:"image";s:7:"subtype";s:3:"png";s:4:"icon";s:68:"http://news.shepherdhistory.org/wp-includes/images/media/default.png";s:13:"dateFormatted";s:18:"September 10, 2016";s:6:"nonces";a:3:{s:6:"update";s:10:"aca786b7e1";s:6:"delete";s:10:"dcde446bed";s:4:"edit";s:10:"dca4bb4697";}s:8:"editLink";s:69:"http://news.shepherdhistory.org/wp-admin/post.php?post=64&action=edit";s:4:"meta";b:0;s:10:"authorName";s:5:"admin";s:14:"uploadedToLink";s:69:"http://news.shepherdhistory.org/wp-admin/post.php?post=63&action=edit";s:15:"uploadedToTitle";s:42:"The Morning Sun dropping Sound Off feature";s:15:"filesizeInBytes";i:28646;s:21:"filesizeHumanReadable";s:5:"28 KB";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:6:"height";i:140;s:5:"width";i:140;s:3:"url";s:94:"http://news.shepherdhistory.org/wp-content/uploads/2016/09/Cartoon-Phone-Guy-300px-140x140.png";s:11:"orientation";s:9:"landscape";}s:4:"full";a:4:{s:3:"url";s:86:"http://news.shepherdhistory.org/wp-content/uploads/2016/09/Cartoon-Phone-Guy-300px.png";s:6:"height";i:284;s:5:"width";i:186;s:11:"orientation";s:8:"portrait";}}s:6:"height";i:284;s:5:"width";i:186;s:11:"orientation";s:8:"portrait";s:6:"compat";a:2:{s:4:"item";s:1697:"<input type="hidden" name="attachments[64][menu_order]" value="0" /><p class="media-types media-types-required-info">Required fields are marked <span class="required">*</span></p>
+    a:1:{i:0;s:3577:"a:1:{i:0;s:3557:"a:3:{s:4:"type";s:5:"image";s:10:"attachment";i:64;s:15:"attachment_data";a:33:{s:2:"id";i:64;s:5:"title";s:23:"cartoon-phone-guy-300px";s:8:"filename";s:27:"Cartoon-Phone-Guy-300px.png";s:3:"url";s:86:"http://news.shepherdhistory.org/wp-content/uploads/2016/09/Cartoon-Phone-Guy-300px.png";s:4:"link";s:49:"http://news.shepherdhistory.org/?attachment_id=64";s:3:"alt";s:0:"";s:6:"author";s:1:"1";s:11:"description";s:0:"";s:7:"caption";s:0:"";s:4:"name";s:23:"cartoon-phone-guy-300px";s:6:"status";s:7:"inherit";s:10:"uploadedTo";i:63;s:4:"date";i:1473478455000;s:8:"modified";i:1473478455000;s:9:"menuOrder";i:0;s:4:"mime";s:9:"image/png";s:4:"type";s:5:"image";s:7:"subtype";s:3:"png";s:4:"icon";s:68:"http://news.shepherdhistory.org/wp-includes/images/media/default.png";s:13:"dateFormatted";s:18:"September 10, 2016";s:6:"nonces";a:3:{s:6:"update";s:10:"aca786b7e1";s:6:"delete";s:10:"dcde446bed";s:4:"edit";s:10:"dca4bb4697";}s:8:"editLink";s:69:"http://news.shepherdhistory.org/wp-admin/post.php?post=64&action=edit";s:4:"meta";b:0;s:10:"authorName";s:5:"admin";s:14:"uploadedToLink";s:69:"http://news.shepherdhistory.org/wp-admin/post.php?post=63&action=edit";s:15:"uploadedToTitle";s:42:"The Morning Sun dropping Sound Off feature";s:15:"filesizeInBytes";i:28646;s:21:"filesizeHumanReadable";s:5:"28 KB";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:6:"height";i:140;s:5:"width";i:140;s:3:"url";s:94:"http://news.shepherdhistory.org/wp-content/uploads/2016/09/Cartoon-Phone-Guy-300px-140x140.png";s:11:"orientation";s:9:"landscape";}s:4:"full";a:4:{s:3:"url";s:86:"http://news.shepherdhistory.org/wp-content/uploads/2016/09/Cartoon-Phone-Guy-300px.png";s:6:"height";i:284;s:5:"width";i:186;s:11:"orientation";s:8:"portrait";}}s:6:"height";i:284;s:5:"width";i:186;s:11:"orientation";s:8:"portrait";s:6:"compat";a:2:{s:4:"item";s:1697:"<input type="hidden" name="attachments[64][menu_order]" value="0" /><p class="media-types media-types-required-info">Required fields are marked <span class="required">*</span></p>
     			<table class="compat-attachment-fields">		<tr class='compat-field-media_credit'>			<th scope='row' class='label'><label for='attachments-64-media_credit'><span class='alignleft'>Credit</span><br class='clear' /></label></th>
     			<td class='field'><input type='text' class='text' id='attachments-64-media_credit' name='attachments[64][media_credit]' value=''  /></td>
     		</tr>
@@ -27,11 +27,11 @@ featured_media:
     		<tr class='compat-field-navis_media_can_distribute'>			<th scope='row' class='label'><label for='attachments-64-navis_media_can_distribute'><span class='alignleft'>Can<br />distribute?</span><br class='clear' /></label></th>
     			<td class='field'><input id="attachments[64][navis_media_can_distribute]" name="attachments[64][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     		</tr>
-    </table>";s:4:"meta";s:0:"";}}}";}
+    </table>";s:4:"meta";s:0:"";}}}";}";}
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 top_term:
-  - "44"
+  - 'a:1:{i:0;s:2:"44";}'
 ---
 An article on *The Morning Sun* Facebook page announced that the newspaper is shutting down its "Sound Off" feature. This was the column which printed questions and comments from community members who would call into a phone line.
 
@@ -41,13 +41,13 @@ In a way the Sound Off was a strange throwback to a distant past when there wasn
 
 In describing the Sound Off's long history, Rick Mills said:
 
-> Our vision for Sound Off was to offer voice to the community, to extend a quick way to be heard and to give audience to those with messages that, for whatever reason, could only be shared anonymously.
+&gt; Our vision for Sound Off was to offer voice to the community, to extend a quick way to be heard and to give audience to those with messages that, for whatever reason, could only be shared anonymously.
 
-> Sound Off has solved some problems, righted some wrongs, exposed some issues and led to stories that would not have been known or written if the whistle-blower were identified.
+&gt; Sound Off has solved some problems, righted some wrongs, exposed some issues and led to stories that would not have been known or written if the whistle-blower were identified.
 
-> Those were on its best days.
+&gt; Those were on its best days.
 
-> On its worst days, Sound Off has been what one friend of ours called a train wreck: You feel guilty and you kind of don’t want to look, but you just have to take a peek anyway.
+&gt; On its worst days, Sound Off has been what one friend of ours called a train wreck: You feel guilty and you kind of don’t want to look, but you just have to take a peek anyway.
 
 He continued to talk about how anonymity contributed to some of the more snide comments. And, he said that the volume of calls had dwindled recently.
 
