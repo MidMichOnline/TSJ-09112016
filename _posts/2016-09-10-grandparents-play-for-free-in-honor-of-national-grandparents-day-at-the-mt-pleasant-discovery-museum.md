@@ -7,7 +7,7 @@ post_title: >
 author: admin
 post_date: 2016-09-10 14:22:52
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
   http://www.books.shepherdhistory.org/tsj-09112016/2016/09/10/grandparents-play-for-free-in-honor-of-national-grandparents-day-at-the-mt-pleasant-discovery-museum/
 published: true
