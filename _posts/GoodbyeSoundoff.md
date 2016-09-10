@@ -1,3 +1,19 @@
+---
+ID: 
+post_title: Hello world!
+author: admin
+post_date: 2016-09-07 04:48:54
+post_excerpt: ""
+layout: post
+permalink: 
+published: true
+wide_assets:
+  - ""
+custom_sidebar:
+  - none
+top_term:
+  - "1"
+---
 ![](Cartoon-Phone-Guy-300px.png)
 # *Morning Sun* dropping Sound Off feature
 
