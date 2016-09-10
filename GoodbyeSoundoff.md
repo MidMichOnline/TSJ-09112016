@@ -1,3 +1,4 @@
+![](Cartoon-Phone-Guy-300px.png)
 # *Morning Sun* dropping Sound Off feature
 
 An article on the Morning Sun Facebook page announced that the newspaper is shutting down its "Sound Off" feature. This was the column which printed questions and comments from community members who would call into a phone line.
