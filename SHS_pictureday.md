@@ -1,4 +1,4 @@
-# Picture Day
+# SHS Picture Day Planned
 
 *From the [Shepherd High School](https://www.facebook.com/shepherdmihs/?fref=nf):
 *
