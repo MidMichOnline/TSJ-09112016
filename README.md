@@ -1,1 +1,2 @@
-# TSJ-09112016
+# The Shepherd Journal
+## September 11, 2016
