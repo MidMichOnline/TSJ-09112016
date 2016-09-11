@@ -4,15 +4,20 @@ post_title: >
   Learn about SHS Early College Program
   September 15
 author: admin
-post_date: 2016-09-11 04:28:33
+post_date: 2016-09-10 03:26:26
 post_excerpt: ""
 layout: page
 permalink: >
-published: false
+  http://news.shepherdhistory.org/sample-page/2-revision-v1-2/
+published: true
 pb_show_title:
-  - 'on'
+  - 'a:1:{i:0;s:2:"on";}'
 pb_export:
-  - 'on'
+  - 'a:1:{i:0;s:2:"on";}'
+wide_assets:
+  - ""
+custom_sidebar:
+  - none
 ---
 <div class="learn-about-shs-early-college-program-september-15">
 
