@@ -8,8 +8,7 @@ post_date: 2016-09-11 04:28:33
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.books.shepherdhistory.org/tsj-09112016/learn-about-shs-early-college-program-september-15/
-published: true
+published: false
 pb_show_title:
   - 'on'
 pb_export:
