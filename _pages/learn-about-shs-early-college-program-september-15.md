@@ -8,7 +8,7 @@ post_date: 2016-09-11 04:28:33
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.books.shepherdhistory.org/tsj-09112016/events/learn-about-shs-early-college-program-september-15/
+  http://www.books.shepherdhistory.org/tsj-09112016/learn-about-shs-early-college-program-september-15/
 published: true
 pb_show_title:
   - 'on'
@@ -16,8 +16,6 @@ pb_export:
   - 'on'
 ---
 <div class="learn-about-shs-early-college-program-september-15">
-
-&nbsp;
 
 <i>From the </i><a class="rId9" href="https://www.facebook.com/shepherdmihs/?fref=nf"><i>Shepherd High School</i></a><i>:</i>
 
