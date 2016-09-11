@@ -2,15 +2,15 @@
 ID: 45
 post_title: Submit a News Story
 author: admin
-post_date: 2016-09-11 14:43:08
+post_date: 2016-09-10 20:19:32
 post_excerpt: ""
 layout: page
 permalink: >
-  http://news.shepherdhistory.org/submit-a-news-story/
+  http://www.books.shepherdhistory.org/tsj-09112016/submit-a-news-story/
 published: true
 wide_assets:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 custom_sidebar:
-  - none
+  - 'a:1:{i:0;s:4:"none";}'
 ---
 [ap-form]

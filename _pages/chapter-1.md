@@ -2,10 +2,10 @@
 ID: 5
 post_title: Activity
 author: admin
-post_date: 2016-09-08 00:16:05
+post_date: 2016-09-10 14:04:41
 post_excerpt: ""
 layout: page
 permalink: >
-  http://news.shepherdhistory.org/activity/
+  http://www.books.shepherdhistory.org/tsj-09112016/main-body/chapter-1/
 published: true
 ---
