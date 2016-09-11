@@ -1,12 +1,12 @@
 ---
-ID: 2
+ID: 86
 post_title: Sample Page
 author: admin
-post_date: 2016-09-07 04:48:54
+post_date: 2016-09-11 14:54:47
 post_excerpt: ""
 layout: page
 permalink: >
-  http://news.shepherdhistory.org/sample-page/
+  http://www.books.shepherdhistory.org/tsj-09112016/sample-page-2/
 published: true
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
