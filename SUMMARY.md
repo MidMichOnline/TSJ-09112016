@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [SHS Picture Day](_pages/shs-picture-day-scheduled.md)
-* [MorningSun](morningsun.md)
+* [The Morning Sun dropping Sound Off feature](morningsun.md)
 
