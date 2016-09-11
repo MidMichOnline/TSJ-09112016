@@ -1,12 +1,15 @@
 ---
-ID: 2
+ID: 21
 post_title: Sample Page
 author: admin
-post_date: 2016-09-07 04:48:54
-post_excerpt: ""
+post_date: 2016-09-08 00:16:08
+post_excerpt: |
+  Your membership request for the group &quot;{{group.name}}&quot; has been accepted.
+  
+  To view the group, visit: {{{group.url}}}
 layout: page
 permalink: >
-  http://news.shepherdhistory.org/sample-page/
+  http://news.shepherdhistory.org/site-name-membership-request-for-group-group-name-accepted/
 published: true
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
